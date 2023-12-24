@@ -28,6 +28,8 @@ xcuserdata
 
 # Swift Package Manager
 .build/
+/.swiftpm
 
 # Carthage
 Carthage/Build
+
